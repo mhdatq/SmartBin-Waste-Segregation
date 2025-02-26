@@ -16,7 +16,7 @@ An AI-powered smart dustbin that automates waste segregation using IoT and machi
 ## Installation Guide
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SmartBin-Waste-Segregation.git
+   git clone https://github.com/mhdatq/SmartBin-Waste-Segregation.git
    cd SmartBin-Waste-Segregation
 
 pip install -r requirements.txt
