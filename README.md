@@ -5,7 +5,7 @@ An AI-powered smart dustbin that automates waste segregation using IoT and machi
 ✅ Automatic waste classification into 4 categories  
 ✅ Instance segmentation-based object detection  
 ✅ IoT-based real-time monitoring and data analytics  
-✅ Cloud-hosted ML model for cost-effective processing  
+✅ ML model for cost-effective processing  
 ✅ Scalability and remote updates  
 
 ## Technologies Used
