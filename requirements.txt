@@ -1,0 +1,12 @@
+paramiko
+jsonschema
+socket
+torch
+yolov5
+opencv-python
+numpy
+scipy
+matplotlib
+pandas
+picamera
+RPi.GPIO
